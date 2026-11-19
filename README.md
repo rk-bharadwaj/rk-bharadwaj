@@ -2,9 +2,6 @@
 
 <!-- Social & Portfolio Badges (Exact match to your image) -->
 <p align="left">
-  <a href="https://github.com/rk-bharadwaj" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/rk-bharadwaj" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
   </a>
