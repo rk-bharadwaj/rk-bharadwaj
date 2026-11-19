@@ -1,0 +1,23 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="260" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="998" height="258" rx="11" stroke="#30363D" stroke-width="2"/>
+  
+  <!-- Subtle Circuit Lines -->
+  <path d="M50 40 H180 L210 70 H350" stroke="#00D5B5" stroke-width="2" stroke-opacity="0.4" fill="none"/>
+  <circle cx="350" cy="70" r="4" fill="#00D5B5"/>
+  <path d="M950 220 H820 L790 190 H650" stroke="#0077B5" stroke-width="2" stroke-opacity="0.4" fill="none"/>
+  <circle cx="650" cy="190" r="4" fill="#0077B5"/>
+  <path d="M50 200 H140 L160 180 H280" stroke="#58A6FF" stroke-width="1.5" stroke-opacity="0.3" fill="none"/>
+  <circle cx="280" cy="180" r="3" fill="#58A6FF"/>
+
+  <!-- Center Text -->
+  <text x="500" y="95" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="2">
+    EMBEDDED SYSTEMS &amp; FULL-STACK IoT
+  </text>
+  <text x="500" y="135" text-anchor="middle" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="3">
+    HARDWARE • FIRMWARE • CLOUD DASHBOARDS
+  </text>
+  <text x="500" y="185" text-anchor="middle" fill="#00D5B5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500">
+    [ Replace this placeholder with your custom photo in assets/banner.png or assets/photo.jpg ]
+  </text>
+</svg>
