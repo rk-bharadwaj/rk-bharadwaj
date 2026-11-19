@@ -53,5 +53,5 @@ TIP: If you want to show 2 side-by-side photos (e.g., PCB + hardware setup), you
 ### 📬 Get In Touch
 
 - **Portfolio:** [Visit Portfolio](https://YOUR_PORTFOLIO_URL.com)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/rk-bharadwaj)
 - **GitHub:** [Follow on GitHub](https://github.com/rk-bharadwaj)
