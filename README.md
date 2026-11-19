@@ -45,8 +45,8 @@ TIP: If you want to show 2 side-by-side photos (e.g., PCB + hardware setup), you
 
 - **Hardware & EDA:** Custom PCB Design, KiCad, Schematics, Circuit Prototyping
 - **Firmware & Microcontrollers:** C, C++, MicroPython, ESP32, STM32, Arduino, ARM Cortex
-- **Protocols & Communication:** MQTT, HTTP/REST, WebSockets, UART, I2C, SPI, BLE, Wi-Fi
-- **Full-Stack & Cloud:** Node.js, Web Dashboards, Cloud IoT Integration, REST APIs
+- **Protocols & Communication:** MQTT, HTTP, UART, I2C, SPI, BLE, Wi-Fi
+- **Cloud:** Web Dashboards, Cloud IoT Integration
 
 ---
 
