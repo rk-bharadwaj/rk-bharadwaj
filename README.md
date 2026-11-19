@@ -11,7 +11,7 @@
   <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-00D5B5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <a href="https://x.com/RKIRANBHAR67517" target="_blank">
     <img src="https://img.shields.io/badge/X-FOLLOW%20ON%20X-black?style=for-the-badge&logo=x&logoColor=white&labelColor=555555" alt="X" />
   </a>
 </p>
