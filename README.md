@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/rk-bharadwaj" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://https://rk-bharadwaj.vercel.app/" target="_blank">
+  <a href="https://rk-bharadwaj.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-00D5B5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio" />
   </a>
   <a href="https://x.com/RKIRANBHAR67517" target="_blank">
